@@ -25,10 +25,18 @@ availableTimes: ["08:00", "08:30", "09:00, "10:00", ...]
 ```
 
 
-## Entrega do Projeto
-- Vamos focar em avaliar o que foi proposto para o exercício, mas se não conseguir conter sua criatividade e quiser incrementar a aplicação, fique à vontade. Só não deixe de entregar o essencial. ;)
-- Ao finalizar, suba a sua proposta para o projeto que você criou no GitHub ou use o https://www.anyfiddle.com/start/
-- Envie-nos o link do projeto.
+## Executando Projeto
+<br>
 
+- Apos clonar projeto dar o comandos para atualizar as dependências:
+``` bash
+yarn
+``` 
+- E comando para executar o projeto:
+``` bash
+yarn dev
+``` 
+<br>
 
- ##### Pronto! Basta aguardar que vamos entrar em contato
+- Acessar link http://localhost:3333/v1/docs/ para acessar o swagger do projeto
+
